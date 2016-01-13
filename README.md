@@ -6,20 +6,4 @@ My first repository on GitHub.
  - 連結的寫法：[Markdown](http://zh.wikipedia.com/wiki/Markdown)
  - 官方的 Markdown 書寫規則：https://help.github.com/articles/github-flavored-markdown/
 
-> 巢狀層次 - 這是第一行
->> 巢狀層次 - 這是第二行
-
-換行使用 br+括弧
-<br /> 斷行過後
-
-* **表格打法**
-
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-
-| Name | Description          |
-| ------------- | ----------- |
-| Help      | ~~Display the~~ help window.|
-| Close     | _Closes_ a window     |
+基本上這邊的Marldown語法也就是課上面所用的 kanboard `(網址為：http://kanboard.net/)`
