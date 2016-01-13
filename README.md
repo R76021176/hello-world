@@ -7,3 +7,5 @@ My first repository on GitHub.
  - 官方的 Markdown 書寫規則：https://help.github.com/articles/github-flavored-markdown/
 
 基本上這邊的Marldown語法也就是課上面所用的 kanboard `(網址為：http://kanboard.net/)`
+
+這東西作為工作日誌還是有些欠缺，因為無法製作目錄，但是可以跨公司及家裡面當作雲端記事本來使用！
