@@ -11,3 +11,10 @@ My first repository on GitHub.
 
 換行使用 br+括弧
 <br /> 斷行過後
+
+**表格打法**
+
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
