@@ -5,5 +5,3 @@ My first repository on GitHub.
 
 > 巢狀層次 - 這是第一行
 >> 巢狀層次 - 這是第二行
-
-[Markdown](http://zh.wikipedia.com/wiki/Markdown)
