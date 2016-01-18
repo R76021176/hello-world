@@ -16,3 +16,17 @@ My first repository on GitHub.
 | Content Cell  | Content Cell  |
 
 這東西作為工作日誌還是有些欠缺，因為無法製作目錄，但是可以跨公司及家裡面當作雲端記事本來使用！
+
+- [ ] 確認格
+- [x] 確認格打勾
+
+**highlight python語法**
+```python
+@requires_authorization
+class SomeClass:
+    pass
+
+if __name__ == '__main__':
+    # A comment
+    print 'hello world'
+```
